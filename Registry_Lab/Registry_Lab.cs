@@ -206,7 +206,7 @@ namespace Registry_Lab
             if (string.IsNullOrEmpty(valueName) || string.IsNullOrEmpty(valueData))
             {
                 MessageBox.Show("Заполните имя и данные параметра.");
-                return;
+                return; 
             }
 
             RegistryValueKind valueKind;
