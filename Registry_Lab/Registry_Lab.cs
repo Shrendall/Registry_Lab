@@ -211,7 +211,7 @@ namespace Registry_Lab
 
             RegistryValueKind valueKind;
             object value;
-
+             
             try
             {
                 switch (comboBoxValueType.SelectedItem.ToString())
