@@ -1,0 +1,2 @@
+﻿Ключ: HKEY_USERS\S-1-5-21-3776976977-2431041380-3269817218-1001\Control Panel\Colors | Имя: Background | Тип: String | Значение: 0 0 0
+Ключ: HKEY_LOCAL_MACHINE\SOFTWARE\Google\Chrome\NativeMessagingHosts\com.microsoft.onedrive.nucleus.auth.provider | Имя:  | Тип: String | Значение: C:\Program Files\Microsoft OneDrive\24.226.1110.0004\com.microsoft.onedrive.nucleus.auth.provider.json
